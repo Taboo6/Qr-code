@@ -1,1 +1,1 @@
-# qe-code
+# qr-code
